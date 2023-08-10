@@ -43,7 +43,7 @@ public class Main {
     }
     public static void task4 () {
         System.out.println("Задача 4");
-        int deliveryDistance = 10;
+        int deliveryDistance = 95;
         int deliveryTime = 1;
         if (deliveryDistance < 20) {
                 System.out.println("Потребуется дней: " + deliveryTime);
